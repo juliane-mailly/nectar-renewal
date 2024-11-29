@@ -10,5 +10,5 @@ This is about his figure :
 ![](https://github.com/juliane-mailly/nectar-renewal/blob/main/sim_bout15.png)
 
 
-this is a test gif : 
-![](https://github.com/juliane-mailly/nectar-renewal/blob/main/test-gif.gif)
+this is a test : 
+![](https://github.com/juliane-mailly/nectar-renewal/blob/main/image30.gif)
